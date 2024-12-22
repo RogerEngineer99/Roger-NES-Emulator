@@ -1,4 +1,4 @@
-RogerNESemu - Visual Studio Solution
+Roger-NES-emulator - Visual Studio Solution
 
 
 
@@ -6,7 +6,7 @@ Overview
 
 
 
-The RogerNESemu project is a NES emulator built using C++ and Visual Studio. This solution contains the main project for building the emulator and is compatible with both 32-bit and 64-bit configurations. The solution is intended to run on Microsoft Visual Studio 2019 or later.
+The Roger NES emulator project is a NES emulator built using C++ and Visual Studio. This solution contains the main project for building the emulator and is compatible with both 32-bit and 64-bit configurations. The solution is intended to run on Microsoft Visual Studio 2019 or later.
 
 
 
